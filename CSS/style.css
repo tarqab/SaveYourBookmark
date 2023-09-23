@@ -1,0 +1,23 @@
+:root {
+    --main-color:#f7ecde;
+
+}
+body {
+    background-color: var(--main-color) !important;
+}
+
+h3 {
+    font-family: "Righteous", cursive;
+    font-size: 25px;
+    background-image: linear-gradient(to right, #3ca55c, #49440e);    
+     background-size: 100%;
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    -webkit-text-fill-color: transparent; 
+    -moz-text-fill-color: transparent;
+}
+.bookmarkBody {
+border-top: .0625rem dashed ;
+border-bottom: .0625rem dashed ;
+
+}
